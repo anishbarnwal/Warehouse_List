@@ -1,7 +1,7 @@
 # Warehouse_List
 
 Page 1:
-I am giving a list of warehouses in the most optimal and modular way possible.
+I have give a list of warehouses in the most optimal and modular way possible.
 
 The listing page should have these feature(you may add more)
 -> search the warehouses by warehouse name
